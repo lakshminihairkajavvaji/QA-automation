@@ -1,0 +1,5 @@
+CommonUtils\CommonUtils.class
+com\crm\config\CrmPageConstants.class
+com\crm\config\Configuration.class
+ObjectRepository\PageObjects.class
+com\crm\data\data.class
